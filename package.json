@@ -1,0 +1,27 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node ./src/second-hand-housing/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubJiKe/spider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitHubJiKe/spider/issues"
+  },
+  "homepage": "https://github.com/GitHubJiKe/spider#readme",
+  "prettier": {
+    "tabWidth": 2
+  },
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  }
+}
