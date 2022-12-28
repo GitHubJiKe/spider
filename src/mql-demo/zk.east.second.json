@@ -1,0 +1,479 @@
+[
+    {
+        "commName": "天明城名仕公馆",
+        "commAddress": "川汇东新区恒山路",
+        "totalPrice": "70 万",
+        "avePrice": "5385元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 130㎡ ",
+        "direction": "东"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "86 万",
+        "avePrice": "7611元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 113㎡ ",
+        "direction": "南"
+    },
+    {
+        "commName": "天明城人和苑小区",
+        "commAddress": "川汇东新区平安路",
+        "totalPrice": "47 万",
+        "avePrice": "5223元/㎡",
+        "huxing": "3 室 2 厅 1 卫",
+        "area": " 90㎡ ",
+        "direction": "南"
+    },
+    {
+        "commName": "碧桂园天玺湾一期",
+        "commAddress": "川汇东新区桂园路",
+        "totalPrice": "63 万",
+        "avePrice": "5122元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 123㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "恒大名都",
+        "commAddress": "川汇东新区大成路",
+        "totalPrice": "63 万",
+        "avePrice": "5834元/㎡",
+        "huxing": "3 室 2 厅 1 卫",
+        "area": " 108㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "49 万",
+        "avePrice": "5506元/㎡",
+        "huxing": "2 室 2 厅 1 卫",
+        "area": " 89㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "碧桂园天玺湾一期",
+        "commAddress": "川汇东新区桂园路",
+        "totalPrice": "63 万",
+        "avePrice": "5122元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 123㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "恒大名都",
+        "commAddress": "川汇东新区大成路",
+        "totalPrice": "76 万",
+        "avePrice": "5833元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 130.3㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "景园盛世华都",
+        "commAddress": "川汇东新区庆丰路",
+        "totalPrice": "73 万",
+        "avePrice": "5888元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 124㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业世和府",
+        "commAddress": "川汇东新区武盛大道",
+        "totalPrice": "70 万",
+        "avePrice": "5738元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 122㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "86 万",
+        "avePrice": "6565元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 131㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "80 万",
+        "avePrice": "5883元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 136㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "恒大名都",
+        "commAddress": "川汇东新区大成路",
+        "totalPrice": "73 万",
+        "avePrice": "5984元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 122㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "碧桂园(公寓住宅)",
+        "commAddress": "川汇东新区002乡道",
+        "totalPrice": "76 万",
+        "avePrice": "5938元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 128㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "恒大名都",
+        "commAddress": "川汇东新区大成路",
+        "totalPrice": "73 万",
+        "avePrice": "5984元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 122㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "恒大名都",
+        "commAddress": "川汇东新区大成路",
+        "totalPrice": "72 万",
+        "avePrice": "5902元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 122㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "碧桂园天玺湾一期",
+        "commAddress": "川汇东新区桂园路",
+        "totalPrice": "73 万",
+        "avePrice": "5984元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 122㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "玖号院",
+        "commAddress": "川汇东新区文昌大道",
+        "totalPrice": "84.5 万",
+        "avePrice": "6214元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 136㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "馨丽康城",
+        "commAddress": "川汇东新区嵩山路",
+        "totalPrice": "83 万",
+        "avePrice": "6195元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 134㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "93 万",
+        "avePrice": "7100元/㎡",
+        "huxing": "3 室 2 厅 1 卫",
+        "area": " 131㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "碧桂园(公寓住宅)",
+        "commAddress": "川汇东新区002乡道",
+        "totalPrice": "82 万",
+        "avePrice": "6834元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 120㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "恒大名都",
+        "commAddress": "川汇东新区大成路",
+        "totalPrice": "72 万",
+        "avePrice": "5902元/㎡",
+        "huxing": "3 室 2 厅 1 卫",
+        "area": " 122㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "恒大名都",
+        "commAddress": "川汇东新区大成路",
+        "totalPrice": "78 万",
+        "avePrice": "5987元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 130.3㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "66 万",
+        "avePrice": "5455元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 121㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "碧桂园(公寓住宅)",
+        "commAddress": "川汇东新区002乡道",
+        "totalPrice": "72 万",
+        "avePrice": "5625元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 128㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "碧桂园(公寓住宅)",
+        "commAddress": "川汇东新区002乡道",
+        "totalPrice": "73 万",
+        "avePrice": "5486元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 133.1㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "72 万",
+        "avePrice": "5218元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 138㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "83 万",
+        "avePrice": "6059元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 137㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "84 万",
+        "avePrice": "6667元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 126㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "82 万",
+        "avePrice": "6030元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 136㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "碧桂园(公寓住宅)",
+        "commAddress": "川汇东新区002乡道",
+        "totalPrice": "72 万",
+        "avePrice": "5625元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 128㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "72 万",
+        "avePrice": "5256元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 137㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "景园盛世华都",
+        "commAddress": "川汇东新区庆丰路",
+        "totalPrice": "68 万",
+        "avePrice": "5231元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 130㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "永丰观澜国际(川汇)",
+        "commAddress": "川汇东新区庆丰中路",
+        "totalPrice": "100 万",
+        "avePrice": "7519元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 133㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "景园盛世华都",
+        "commAddress": "川汇东新区庆丰路",
+        "totalPrice": "70 万",
+        "avePrice": "5385元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 130㎡ ",
+        "direction": "南"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "64 万",
+        "avePrice": "5566元/㎡",
+        "huxing": "3 室 2 厅 1 卫",
+        "area": " 115㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业世和府",
+        "commAddress": "川汇东新区武盛大道",
+        "totalPrice": "70 万",
+        "avePrice": "6604元/㎡",
+        "huxing": "3 室 2 厅 1 卫",
+        "area": " 106㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "公务员小区(B区)",
+        "commAddress": "川汇东新区府汇街",
+        "totalPrice": "82 万",
+        "avePrice": "6075元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 135㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "碧桂园(公寓住宅)",
+        "commAddress": "川汇东新区002乡道",
+        "totalPrice": "86 万",
+        "avePrice": "7167元/㎡",
+        "huxing": "3 室 2 厅 1 卫",
+        "area": " 120㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "88 万",
+        "avePrice": "6825元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 129㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "88 万",
+        "avePrice": "6825元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 129㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "70 万",
+        "avePrice": "5110元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 137㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "恒大名都",
+        "commAddress": "川汇东新区大成路",
+        "totalPrice": "73 万",
+        "avePrice": "5916元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 123.4㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "恒大名都",
+        "commAddress": "川汇东新区大成路",
+        "totalPrice": "76 万",
+        "avePrice": "6230元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 122㎡ ",
+        "direction": "南"
+    },
+    {
+        "commName": "恒大名都",
+        "commAddress": "川汇东新区大成路",
+        "totalPrice": "76 万",
+        "avePrice": "6230元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 122㎡ ",
+        "direction": "南"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "83 万",
+        "avePrice": "6588元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 126㎡ ",
+        "direction": "南"
+    },
+    {
+        "commName": "碧桂园(公寓住宅)",
+        "commAddress": "川汇东新区002乡道",
+        "totalPrice": "72 万",
+        "avePrice": "5625元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 128㎡ ",
+        "direction": "南"
+    },
+    {
+        "commName": "碧桂园天玺湾一期",
+        "commAddress": "川汇东新区桂园路",
+        "totalPrice": "73 万",
+        "avePrice": "5935元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 123㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "碧桂园天玺湾一期",
+        "commAddress": "川汇东新区桂园路",
+        "totalPrice": "63 万",
+        "avePrice": "5122元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 123㎡ ",
+        "direction": "南"
+    },
+    {
+        "commName": "恒大名都",
+        "commAddress": "川汇东新区大成路",
+        "totalPrice": "73 万",
+        "avePrice": "5945元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 122.8㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "碧桂园(公寓住宅)",
+        "commAddress": "川汇东新区002乡道",
+        "totalPrice": "73 万",
+        "avePrice": "5531元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 132㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "建业森林半岛(川汇)",
+        "commAddress": "川汇东新区东环路",
+        "totalPrice": "88 万",
+        "avePrice": "6825元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 129㎡ ",
+        "direction": "南北"
+    },
+    {
+        "commName": "碧桂园天玺湾一期",
+        "commAddress": "川汇东新区桂园路",
+        "totalPrice": "73 万",
+        "avePrice": "5935元/㎡",
+        "huxing": "3 室 2 厅 2 卫",
+        "area": " 123㎡ ",
+        "direction": "南北"
+    }
+]
